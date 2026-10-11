@@ -1,6 +1,11 @@
 # relay
 A small, self-hosted Python inbox for managing multiple webhook channels, managing app licensing and file sharing
 
+Screenshots :
+<img width="1228" height="772" alt="Screenshot1" src="https://github.com/user-attachments/assets/534c4e06-0dde-41db-ada5-33f5de627d75" />
+<img width="1184" height="890" alt="Screenshot2" src="https://github.com/user-attachments/assets/854d3e81-7eb0-4725-927f-b66ba7b1febd" />
+
+
 
 ## Install on Ubuntu Server
 
